@@ -5,7 +5,7 @@ Ever want to see just the config file without all the comments? Me too. Have fun
 
 Requirements
 ------------
-* egrep (or an alias for grep -E)
+* a grep that supports -E for extended regex. MacOS X, Linux and Cygwin all work.
 * bash/ash/zsh, you get the idea. If you have something exotic make an alias.
 * rudimentary knowledge of a bourne type shell.
 * some really ugly config files.
